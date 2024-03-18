@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076969028312",
+    "project_id": "gpm-app-e32e8",
+    "storage_bucket": "gpm-app-e32e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076969028312:android:ff4f347920f7c1df4575ad",
+        "android_client_info": {
+          "package_name": "com.example.gpm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4GZPCqNehFOVZyS1-nsiFsFoOHPb00I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
